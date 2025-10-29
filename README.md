@@ -27,3 +27,5 @@ Your goal is to shoot down as many aliens as possible before they reach your spa
 
 ## Game Preview
 
+![Shooter Game Screenshot](images/screenshot.png)
+
